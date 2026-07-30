@@ -1,0 +1,6 @@
+{
+  "name": "Bilingual ATS CV Builder Pro",
+  "description": "Professional ATS-optimized Bilingual CV builder in English and Arabic with live ATS score calculation, bullet optimization, keyword analysis, and print/PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
